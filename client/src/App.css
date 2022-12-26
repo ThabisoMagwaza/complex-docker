@@ -1,0 +1,21 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  margin-bottom: 20px;
+}
+
+header ul {
+  margin-top: 10px;
+  list-style: none;
+}
+
+header ul li { 
+  margin-right: 16px;
+  display: inline-block;
+}
